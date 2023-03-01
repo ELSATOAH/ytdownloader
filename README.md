@@ -1,5 +1,5 @@
 # ytdownloader
-This is a YT Downloader
+This is a YT Video Downloader
 
 HOW TO USE:
   1. Download the Folder
